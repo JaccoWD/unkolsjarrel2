@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GKA wit",
-    "currentPage": "producten.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -773,7 +773,7 @@
           "text6": "",
           "form": {
             "title": "MESSAGE",
-            "action": "stefanhijmans@hotmail.com",
+            "action": "jaccohijmans@hotmail.com",
             "alerts": {
               "success": "danke zeer!"
             },
